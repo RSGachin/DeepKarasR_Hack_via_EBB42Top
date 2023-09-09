@@ -1,5 +1,5 @@
 # DeepKarasR_Hack_via_EBB42Top
-Версия карася от //Hack переделанная под [топ с EBB42](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/tree/main/DeepKarasR_Hack_via_EBB42Top) для BIQU H2V2S.(Низ сборки никак не изменялся!)
+Версия карася от //Hack переделанная под [топ с EBB42](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/tree/main/DeepKarasR_Hack_via_EBB42Top) для BIQU H2V2S/BIQU H2.(Низ сборки никак не изменялся!)
 >[!Warning]
 >После распечатывания нижней части ***обязательно*** удалить поддержку с флажка концевика, иначе при парковке очень велик шанс что флажок снесет SMD компоненты на оптическом концевике!
 
