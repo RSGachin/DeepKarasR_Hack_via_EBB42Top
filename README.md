@@ -10,6 +10,12 @@
 
 ![Спереди](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/blob/main/DeepKarasR_Hack_via_EBB42Top/1.PNG)  
 ![Сзади](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/blob/main/DeepKarasR_Hack_via_EBB42Top/2.PNG)  
+Фото:  
+![1](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/blob/main/Viev_foto/foto1.JPG)  
+![2](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/blob/main/Viev_foto/foto2.JPG)  
+![3](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/blob/main/Viev_foto/foto3.JPG)  
+![4](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/blob/main/Viev_foto/foto4.JPG)  
+
 
 --------------------------------------------------------
 Оригинальная версия карася от //Hack [DeepKarasR_Hack_v4](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/tree/main/DeepKarasR_Hack_v4)  
