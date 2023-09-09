@@ -1,5 +1,5 @@
 # DeepKarasR_Hack_via_EBB42Top
-Версия карася от //Hack переделанная под [топ с EBB42](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/tree/main/DeepKarasR_Hack_via_EBB42Top).  
+Версия карася от //Hack переделанная под [топ с EBB42](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/tree/main/DeepKarasR_Hack_via_EBB42Top). (Низ сборки никак не изменялся!)
 >[!Warning]
 >После распечатывания нижней части ***обязательно*** удалить поддержку с флажка концевика, иначе при парковке очень велик шанс что флажок снесет SMD компоненты на оптическом концевике!
 
