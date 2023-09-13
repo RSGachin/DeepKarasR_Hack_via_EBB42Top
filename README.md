@@ -24,5 +24,5 @@
 
 
 --------------------------------------------------------
-Оригинальная версия дип карася от //Hack [DeepKarasR_Hack_v4](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/tree/main/DeepKarasR_Hack_v4)  
+Оригинальная версия дип карася от //Hack [DeepKarasR_Hack_v4](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/tree/main/DeepKarasR_Hack_v4) и [тут](https://t.me/Biquh2_4_fbg6/28567)
 --------------------------------------------------------  
