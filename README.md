@@ -7,7 +7,7 @@
 > В процессер сборки EBB42 устанавливать в ***последнюю очередь***! Сначала просунуть все разьемы, прикрутить провода нагревателя к плате, и только потом прикручивать EBB42 непосредственно к голове!
 
 Так же в сборку добавлен держатель кабеля от [Зохана](https://www.thingiverse.com/thing:5883228).  
-Конфиг Bl-Touch искать [тут](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/blob/main/DeepKarasR_Hack_v4/Readme.md).  
+Конфиг BL-Touch искать [тут](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/blob/main/DeepKarasR_Hack_v4/Readme.md).  
 
 > [!NOTE]
 > Топ выполнен на основе STEP файла от первой версии дип карася с [гита ТомТомыча](https://github.com/Tombraider2006/klipperFB6/blob/main/karas/readme.md). Поэтому все изменения касающиеся топа от [//Hack](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42Top/blob/main/DeepKarasR_Hack_v4/Readme.md) тут ***отсутствуют***, вырезы под рычаг фиксации филамента сделаны заново.
