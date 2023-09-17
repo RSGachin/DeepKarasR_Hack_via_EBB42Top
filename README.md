@@ -12,6 +12,8 @@
 > [!NOTE]
 > Топ выполнен на основе STEP файла от первой версии дип карася с [гита ТомТомыча](https://github.com/Tombraider2006/klipperFB6/blob/main/karas/readme.md). Поэтому все изменения касающиеся топа от [//Hack](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42Top/blob/main/DeepKarasR_Hack_v4/Readme.md) тут ***отсутствуют***, вырезы под рычаг фиксации филамента сделаны заново.
 
+Оригинальная версия дип карася от //Hack [DeepKarasR_Hack_v4](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/tree/main/DeepKarasR_Hack_v4) и [тут](https://t.me/Biquh2_4_fbg6/28567)
+
 
 
 ![Спереди](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/blob/main/DeepKarasR_Hack_via_EBB42Top/1.PNG)  
@@ -24,5 +26,5 @@
 
 
 --------------------------------------------------------
-Оригинальная версия дип карася от //Hack [DeepKarasR_Hack_v4](https://github.com/RSGachin/DeepKarasR_Hack_via_EBB42/tree/main/DeepKarasR_Hack_v4) и [тут](https://t.me/Biquh2_4_fbg6/28567)
+
 --------------------------------------------------------  
